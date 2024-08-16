@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Movies",
+    "bgColor": "FF4E88",
+    "isPremium": true
+  },
+  {
+    "name": "Food",
+    "bgColor": "387F39",
+    "isPremium": false
+  },
+  {
+      "name": "places",
+      "bgColor": "7A1CAC",
+      "isPremium": false
+  },
+  {
+      "name": "animals",
+      "bgColor": "F6E96B",
+      "isPremium": true
+  },
+  {
+      "name": "people",
+      "bgColor": "FF4E88",
+      "isPremium": false
+  }
+]
